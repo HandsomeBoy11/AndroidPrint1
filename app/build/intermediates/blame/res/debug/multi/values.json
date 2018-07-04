@@ -1,0 +1,958 @@
+[
+    {
+        "outputFile": "F:\\open_project\\20180703\\AndroidPrint1\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 18,
+                    "endColumn": 19,
+                    "endOffset": 878
+                },
+                "from": {
+                    "file": "F:\\open_project\\20180703\\AndroidPrint1\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 139,
+                        "startColumn": 4,
+                        "startOffset": 4581,
+                        "endLine": 155,
+                        "endColumn": 19,
+                        "endOffset": 5404
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 883,
+                    "endLine": 28,
+                    "endColumn": 19,
+                    "endOffset": 1232
+                },
+                "from": {
+                    "file": "F:\\open_project\\20180703\\AndroidPrint1\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 41,
+                        "startColumn": 4,
+                        "startOffset": 1346,
+                        "endLine": 50,
+                        "endColumn": 19,
+                        "endOffset": 1695
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 1237,
+                    "endLine": 36,
+                    "endColumn": 19,
+                    "endOffset": 1447
+                },
+                "from": {
+                    "file": "F:\\open_project\\20180703\\AndroidPrint1\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 731,
+                        "endLine": 25,
+                        "endColumn": 19,
+                        "endOffset": 941
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 1452,
+                    "endLine": 41,
+                    "endColumn": 19,
+                    "endOffset": 1631
+                },
+                "from": {
+                    "file": "F:\\open_project\\20180703\\AndroidPrint1\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 86,
+                        "startColumn": 4,
+                        "startOffset": 2735,
+                        "endLine": 90,
+                        "endColumn": 19,
+                        "endOffset": 2914
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 1636,
+                    "endLine": 46,
+                    "endColumn": 19,
+                    "endOffset": 1789
+                },
+                "from": {
+                    "file": "F:\\open_project\\20180703\\AndroidPrint1\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 93,
+                        "startColumn": 4,
+                        "startOffset": 2959,
+                        "endLine": 97,
+                        "endColumn": 19,
+                        "endOffset": 3112
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 47,
+                    "startColumn": 4,
+                    "startOffset": 1794,
+                    "endLine": 112,
+                    "endColumn": 19,
+                    "endOffset": 4118
+                },
+                "from": {
+                    "file": "F:\\open_project\\20180703\\AndroidPrint1\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 226,
+                        "startColumn": 4,
+                        "startOffset": 7240,
+                        "endLine": 291,
+                        "endColumn": 19,
+                        "endOffset": 9564
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 113,
+                    "startColumn": 4,
+                    "startOffset": 4123,
+                    "endLine": 178,
+                    "endColumn": 19,
+                    "endOffset": 6019
+                },
+                "from": {
+                    "file": "F:\\open_project\\20180703\\AndroidPrint1\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 294,
+                        "startColumn": 4,
+                        "startOffset": 9623,
+                        "endLine": 359,
+                        "endColumn": 19,
+                        "endOffset": 11519
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 179,
+                    "startColumn": 4,
+                    "startOffset": 6024,
+                    "endLine": 244,
+                    "endColumn": 19,
+                    "endOffset": 7742
+                },
+                "from": {
+                    "file": "F:\\open_project\\20180703\\AndroidPrint1\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 158,
+                        "startColumn": 4,
+                        "startOffset": 5463,
+                        "endLine": 223,
+                        "endColumn": 19,
+                        "endOffset": 7181
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 245,
+                    "startColumn": 4,
+                    "startOffset": 7747,
+                    "endLine": 252,
+                    "endColumn": 19,
+                    "endOffset": 7995
+                },
+                "from": {
+                    "file": "F:\\open_project\\20180703\\AndroidPrint1\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 100,
+                        "startColumn": 4,
+                        "startOffset": 3167,
+                        "endLine": 107,
+                        "endColumn": 19,
+                        "endOffset": 3415
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 253,
+                    "startColumn": 4,
+                    "startOffset": 8000,
+                    "endLine": 263,
+                    "endColumn": 19,
+                    "endOffset": 8299
+                },
+                "from": {
+                    "file": "F:\\open_project\\20180703\\AndroidPrint1\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 991,
+                        "endLine": 38,
+                        "endColumn": 19,
+                        "endOffset": 1290
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 264,
+                    "startColumn": 4,
+                    "startOffset": 8304,
+                    "endLine": 281,
+                    "endColumn": 19,
+                    "endOffset": 8886
+                },
+                "from": {
+                    "file": "F:\\open_project\\20180703\\AndroidPrint1\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 110,
+                        "startColumn": 4,
+                        "startOffset": 3465,
+                        "endLine": 127,
+                        "endColumn": 19,
+                        "endOffset": 4047
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 282,
+                    "startColumn": 4,
+                    "startOffset": 8891,
+                    "endLine": 287,
+                    "endColumn": 19,
+                    "endOffset": 9078
+                },
+                "from": {
+                    "file": "F:\\open_project\\20180703\\AndroidPrint1\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 53,
+                        "startColumn": 4,
+                        "startOffset": 1744,
+                        "endLine": 58,
+                        "endColumn": 19,
+                        "endOffset": 1931
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 288,
+                    "startColumn": 4,
+                    "startOffset": 9083,
+                    "endLine": 294,
+                    "endColumn": 19,
+                    "endOffset": 9507
+                },
+                "from": {
+                    "file": "F:\\open_project\\20180703\\AndroidPrint1\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 130,
+                        "startColumn": 4,
+                        "startOffset": 4100,
+                        "endLine": 136,
+                        "endColumn": 19,
+                        "endOffset": 4524
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 295,
+                    "startColumn": 4,
+                    "startOffset": 9512,
+                    "endLine": 300,
+                    "endColumn": 19,
+                    "endOffset": 9708
+                },
+                "from": {
+                    "file": "F:\\open_project\\20180703\\AndroidPrint1\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 61,
+                        "startColumn": 4,
+                        "startOffset": 1982,
+                        "endLine": 66,
+                        "endColumn": 19,
+                        "endOffset": 2178
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 301,
+                    "startColumn": 4,
+                    "startOffset": 9713,
+                    "endLine": 306,
+                    "endColumn": 19,
+                    "endOffset": 9893
+                },
+                "from": {
+                    "file": "F:\\open_project\\20180703\\AndroidPrint1\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 68,
+                        "startColumn": 4,
+                        "startOffset": 2188,
+                        "endLine": 73,
+                        "endColumn": 19,
+                        "endOffset": 2368
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 307,
+                    "startColumn": 4,
+                    "startOffset": 9898,
+                    "endLine": 315,
+                    "endColumn": 19,
+                    "endOffset": 10206
+                },
+                "from": {
+                    "file": "F:\\open_project\\20180703\\AndroidPrint1\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 75,
+                        "startColumn": 4,
+                        "startOffset": 2378,
+                        "endLine": 83,
+                        "endColumn": 19,
+                        "endOffset": 2686
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 316,
+                    "startColumn": 4,
+                    "startOffset": 10211,
+                    "endColumn": 57,
+                    "endOffset": 10264
+                },
+                "from": {
+                    "file": "F:\\open_project\\20180703\\AndroidPrint1\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 92,
+                        "endColumn": 57,
+                        "endOffset": 145
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 317,
+                    "startColumn": 4,
+                    "startOffset": 10269,
+                    "endColumn": 55,
+                    "endOffset": 10320
+                },
+                "from": {
+                    "file": "F:\\open_project\\20180703\\AndroidPrint1\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 151,
+                        "endColumn": 55,
+                        "endOffset": 202
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 318,
+                    "startColumn": 4,
+                    "startOffset": 10325,
+                    "endColumn": 52,
+                    "endOffset": 10373
+                },
+                "from": {
+                    "file": "F:\\open_project\\20180703\\AndroidPrint1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 163,
+                        "endColumn": 52,
+                        "endOffset": 211
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 319,
+                    "startColumn": 4,
+                    "startOffset": 10378,
+                    "endColumn": 49,
+                    "endOffset": 10423
+                },
+                "from": {
+                    "file": "F:\\open_project\\20180703\\AndroidPrint1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 58,
+                        "endColumn": 49,
+                        "endOffset": 103
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 320,
+                    "startColumn": 4,
+                    "startOffset": 10428,
+                    "endColumn": 52,
+                    "endOffset": 10476
+                },
+                "from": {
+                    "file": "F:\\open_project\\20180703\\AndroidPrint1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 109,
+                        "endColumn": 52,
+                        "endOffset": 157
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 321,
+                    "startColumn": 4,
+                    "startOffset": 10481,
+                    "endLine": 327,
+                    "endColumn": 12,
+                    "endOffset": 10767
+                },
+                "from": {
+                    "file": "F:\\open_project\\20180703\\AndroidPrint1\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 191,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 481
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 328,
+                    "startColumn": 4,
+                    "startOffset": 10772,
+                    "endLine": 330,
+                    "endColumn": 12,
+                    "endOffset": 10927
+                },
+                "from": {
+                    "file": "F:\\open_project\\20180703\\AndroidPrint1\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 522,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 679
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "F:\\workspace_git\\AndroidPrint1\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 18,
+                    "endColumn": 19,
+                    "endOffset": 878
+                },
+                "from": {
+                    "file": "F:\\workspace_git\\AndroidPrint1\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 139,
+                        "startColumn": 4,
+                        "startOffset": 4581,
+                        "endLine": 155,
+                        "endColumn": 19,
+                        "endOffset": 5404
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 883,
+                    "endLine": 28,
+                    "endColumn": 19,
+                    "endOffset": 1232
+                },
+                "from": {
+                    "file": "F:\\workspace_git\\AndroidPrint1\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 41,
+                        "startColumn": 4,
+                        "startOffset": 1346,
+                        "endLine": 50,
+                        "endColumn": 19,
+                        "endOffset": 1695
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 1237,
+                    "endLine": 36,
+                    "endColumn": 19,
+                    "endOffset": 1447
+                },
+                "from": {
+                    "file": "F:\\workspace_git\\AndroidPrint1\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 731,
+                        "endLine": 25,
+                        "endColumn": 19,
+                        "endOffset": 941
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 1452,
+                    "endLine": 41,
+                    "endColumn": 19,
+                    "endOffset": 1631
+                },
+                "from": {
+                    "file": "F:\\workspace_git\\AndroidPrint1\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 86,
+                        "startColumn": 4,
+                        "startOffset": 2735,
+                        "endLine": 90,
+                        "endColumn": 19,
+                        "endOffset": 2914
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 1636,
+                    "endLine": 46,
+                    "endColumn": 19,
+                    "endOffset": 1789
+                },
+                "from": {
+                    "file": "F:\\workspace_git\\AndroidPrint1\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 93,
+                        "startColumn": 4,
+                        "startOffset": 2959,
+                        "endLine": 97,
+                        "endColumn": 19,
+                        "endOffset": 3112
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 47,
+                    "startColumn": 4,
+                    "startOffset": 1794,
+                    "endLine": 112,
+                    "endColumn": 19,
+                    "endOffset": 4118
+                },
+                "from": {
+                    "file": "F:\\workspace_git\\AndroidPrint1\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 226,
+                        "startColumn": 4,
+                        "startOffset": 7240,
+                        "endLine": 291,
+                        "endColumn": 19,
+                        "endOffset": 9564
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 113,
+                    "startColumn": 4,
+                    "startOffset": 4123,
+                    "endLine": 178,
+                    "endColumn": 19,
+                    "endOffset": 6019
+                },
+                "from": {
+                    "file": "F:\\workspace_git\\AndroidPrint1\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 294,
+                        "startColumn": 4,
+                        "startOffset": 9623,
+                        "endLine": 359,
+                        "endColumn": 19,
+                        "endOffset": 11519
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 179,
+                    "startColumn": 4,
+                    "startOffset": 6024,
+                    "endLine": 244,
+                    "endColumn": 19,
+                    "endOffset": 7742
+                },
+                "from": {
+                    "file": "F:\\workspace_git\\AndroidPrint1\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 158,
+                        "startColumn": 4,
+                        "startOffset": 5463,
+                        "endLine": 223,
+                        "endColumn": 19,
+                        "endOffset": 7181
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 245,
+                    "startColumn": 4,
+                    "startOffset": 7747,
+                    "endLine": 252,
+                    "endColumn": 19,
+                    "endOffset": 7995
+                },
+                "from": {
+                    "file": "F:\\workspace_git\\AndroidPrint1\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 100,
+                        "startColumn": 4,
+                        "startOffset": 3167,
+                        "endLine": 107,
+                        "endColumn": 19,
+                        "endOffset": 3415
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 253,
+                    "startColumn": 4,
+                    "startOffset": 8000,
+                    "endLine": 263,
+                    "endColumn": 19,
+                    "endOffset": 8299
+                },
+                "from": {
+                    "file": "F:\\workspace_git\\AndroidPrint1\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 991,
+                        "endLine": 38,
+                        "endColumn": 19,
+                        "endOffset": 1290
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 264,
+                    "startColumn": 4,
+                    "startOffset": 8304,
+                    "endLine": 281,
+                    "endColumn": 19,
+                    "endOffset": 8886
+                },
+                "from": {
+                    "file": "F:\\workspace_git\\AndroidPrint1\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 110,
+                        "startColumn": 4,
+                        "startOffset": 3465,
+                        "endLine": 127,
+                        "endColumn": 19,
+                        "endOffset": 4047
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 282,
+                    "startColumn": 4,
+                    "startOffset": 8891,
+                    "endLine": 287,
+                    "endColumn": 19,
+                    "endOffset": 9078
+                },
+                "from": {
+                    "file": "F:\\workspace_git\\AndroidPrint1\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 53,
+                        "startColumn": 4,
+                        "startOffset": 1744,
+                        "endLine": 58,
+                        "endColumn": 19,
+                        "endOffset": 1931
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 288,
+                    "startColumn": 4,
+                    "startOffset": 9083,
+                    "endLine": 294,
+                    "endColumn": 19,
+                    "endOffset": 9507
+                },
+                "from": {
+                    "file": "F:\\workspace_git\\AndroidPrint1\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 130,
+                        "startColumn": 4,
+                        "startOffset": 4100,
+                        "endLine": 136,
+                        "endColumn": 19,
+                        "endOffset": 4524
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 295,
+                    "startColumn": 4,
+                    "startOffset": 9512,
+                    "endLine": 300,
+                    "endColumn": 19,
+                    "endOffset": 9708
+                },
+                "from": {
+                    "file": "F:\\workspace_git\\AndroidPrint1\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 61,
+                        "startColumn": 4,
+                        "startOffset": 1982,
+                        "endLine": 66,
+                        "endColumn": 19,
+                        "endOffset": 2178
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 301,
+                    "startColumn": 4,
+                    "startOffset": 9713,
+                    "endLine": 306,
+                    "endColumn": 19,
+                    "endOffset": 9893
+                },
+                "from": {
+                    "file": "F:\\workspace_git\\AndroidPrint1\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 68,
+                        "startColumn": 4,
+                        "startOffset": 2188,
+                        "endLine": 73,
+                        "endColumn": 19,
+                        "endOffset": 2368
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 307,
+                    "startColumn": 4,
+                    "startOffset": 9898,
+                    "endLine": 315,
+                    "endColumn": 19,
+                    "endOffset": 10206
+                },
+                "from": {
+                    "file": "F:\\workspace_git\\AndroidPrint1\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 75,
+                        "startColumn": 4,
+                        "startOffset": 2378,
+                        "endLine": 83,
+                        "endColumn": 19,
+                        "endOffset": 2686
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 316,
+                    "startColumn": 4,
+                    "startOffset": 10211,
+                    "endColumn": 57,
+                    "endOffset": 10264
+                },
+                "from": {
+                    "file": "F:\\workspace_git\\AndroidPrint1\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 92,
+                        "endColumn": 57,
+                        "endOffset": 145
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 317,
+                    "startColumn": 4,
+                    "startOffset": 10269,
+                    "endColumn": 55,
+                    "endOffset": 10320
+                },
+                "from": {
+                    "file": "F:\\workspace_git\\AndroidPrint1\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 151,
+                        "endColumn": 55,
+                        "endOffset": 202
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 318,
+                    "startColumn": 4,
+                    "startOffset": 10325,
+                    "endColumn": 52,
+                    "endOffset": 10373
+                },
+                "from": {
+                    "file": "F:\\workspace_git\\AndroidPrint1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 163,
+                        "endColumn": 52,
+                        "endOffset": 211
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 319,
+                    "startColumn": 4,
+                    "startOffset": 10378,
+                    "endColumn": 49,
+                    "endOffset": 10423
+                },
+                "from": {
+                    "file": "F:\\workspace_git\\AndroidPrint1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 58,
+                        "endColumn": 49,
+                        "endOffset": 103
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 320,
+                    "startColumn": 4,
+                    "startOffset": 10428,
+                    "endColumn": 52,
+                    "endOffset": 10476
+                },
+                "from": {
+                    "file": "F:\\workspace_git\\AndroidPrint1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 109,
+                        "endColumn": 52,
+                        "endOffset": 157
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 321,
+                    "startColumn": 4,
+                    "startOffset": 10481,
+                    "endLine": 327,
+                    "endColumn": 12,
+                    "endOffset": 10767
+                },
+                "from": {
+                    "file": "F:\\workspace_git\\AndroidPrint1\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 191,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 481
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 328,
+                    "startColumn": 4,
+                    "startOffset": 10772,
+                    "endLine": 330,
+                    "endColumn": 12,
+                    "endOffset": 10927
+                },
+                "from": {
+                    "file": "F:\\workspace_git\\AndroidPrint1\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 522,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 679
+                    }
+                }
+            }
+        ]
+    }
+]

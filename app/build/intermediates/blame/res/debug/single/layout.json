@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "F:\\open_project\\20180703\\AndroidPrint1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\print_bitmap.xml",
+        "source": "F:\\open_project\\20180703\\AndroidPrint1\\app\\src\\main\\res\\layout\\print_bitmap.xml"
+    },
+    {
+        "merged": "F:\\workspace_git\\AndroidPrint1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\motogp_stat_item.xml",
+        "source": "F:\\workspace_git\\AndroidPrint1\\app\\src\\main\\res\\layout\\motogp_stat_item.xml"
+    },
+    {
+        "merged": "F:\\open_project\\20180703\\AndroidPrint1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "F:\\open_project\\20180703\\AndroidPrint1\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "F:\\workspace_git\\AndroidPrint1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\print_bitmap.xml",
+        "source": "F:\\workspace_git\\AndroidPrint1\\app\\src\\main\\res\\layout\\print_bitmap.xml"
+    },
+    {
+        "merged": "F:\\workspace_git\\AndroidPrint1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\print_html_from_screen.xml",
+        "source": "F:\\workspace_git\\AndroidPrint1\\app\\src\\main\\res\\layout\\print_html_from_screen.xml"
+    },
+    {
+        "merged": "F:\\open_project\\20180703\\AndroidPrint1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\print_html_from_screen.xml",
+        "source": "F:\\open_project\\20180703\\AndroidPrint1\\app\\src\\main\\res\\layout\\print_html_from_screen.xml"
+    },
+    {
+        "merged": "F:\\open_project\\20180703\\AndroidPrint1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\motogp_stat_item.xml",
+        "source": "F:\\open_project\\20180703\\AndroidPrint1\\app\\src\\main\\res\\layout\\motogp_stat_item.xml"
+    },
+    {
+        "merged": "F:\\open_project\\20180703\\AndroidPrint1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\print_html_off_screen.xml",
+        "source": "F:\\open_project\\20180703\\AndroidPrint1\\app\\src\\main\\res\\layout\\print_html_off_screen.xml"
+    },
+    {
+        "merged": "F:\\workspace_git\\AndroidPrint1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "F:\\workspace_git\\AndroidPrint1\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "F:\\workspace_git\\AndroidPrint1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\print_html_off_screen.xml",
+        "source": "F:\\workspace_git\\AndroidPrint1\\app\\src\\main\\res\\layout\\print_html_off_screen.xml"
+    }
+]

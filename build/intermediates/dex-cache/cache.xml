@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="F:\open_project\20180703\AndroidPrint1\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="F:\open_project\20180703\AndroidPrint1\app\build\intermediates\pre-dexed\debug\internal_impl-23.4.0_27e6c749630b5f2cd3514f71fe485f1cb4d1556c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="F:\open_project\20180703\AndroidPrint1\app\build\intermediates\pre-dexed\debug\support-annotations-23.4.0_367486334497ca5efbbf3708b676df1c95b517b9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\open_project\20180703\AndroidPrint1\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="F:\open_project\20180703\AndroidPrint1\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.4.0_d45eac166fe4204c9981da75f39d1edb4e8efc35.jar" />
+    </item>
+
+</items>

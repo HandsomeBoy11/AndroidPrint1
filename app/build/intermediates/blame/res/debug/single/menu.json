@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "F:\\open_project\\20180703\\AndroidPrint1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\print_custom_content.xml",
+        "source": "F:\\open_project\\20180703\\AndroidPrint1\\app\\src\\main\\res\\menu\\print_custom_content.xml"
+    },
+    {
+        "merged": "F:\\workspace_git\\AndroidPrint1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\print_custom_content.xml",
+        "source": "F:\\workspace_git\\AndroidPrint1\\app\\src\\main\\res\\menu\\print_custom_content.xml"
+    },
+    {
+        "merged": "F:\\workspace_git\\AndroidPrint1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "F:\\workspace_git\\AndroidPrint1\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "F:\\open_project\\20180703\\AndroidPrint1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "F:\\open_project\\20180703\\AndroidPrint1\\app\\src\\main\\res\\menu\\main.xml"
+    }
+]
